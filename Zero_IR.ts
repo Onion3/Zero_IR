@@ -23,7 +23,7 @@ namespace Zero_IR {
     /**
     * button pushed.
     */
-    //% blockId=Zerov_IR_received_event
+    //% blockId=Zero_IR_received_event
     //% blockGap=20 weight=89
     //% block="on |%btn| button pressed"
     //% shim=Zero_IR::onPressEvent
