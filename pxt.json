@@ -1,0 +1,30 @@
+{
+    "name": "Zero_IR",
+    "version": "1.0.0",
+    "description": "Extension for Onion3 Zero_IR",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "shims.d.ts",
+        "enums.d.ts",
+        "Zero_IR.cpp",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "Zero_IR.ts",
+        "_locales/zh-cn/Zero_IR-strings.json",
+        "_locales/zh-cn/Zero_IR-jsdoc-strings.json",
+        "_locales/zh-tw/Zero_IR-strings.json",
+        "_locales/zh-tw/Zero_IR-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
