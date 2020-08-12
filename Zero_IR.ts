@@ -7,7 +7,7 @@ modified by Sean
  * IR remote
  */
 //% icon="\uf1eb" weight=19 color=50
-namespace Zero_IR {
+namespace Zero_IR{
 
     /**
     * initialization
